@@ -2,7 +2,7 @@
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
-- <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">🔥 DyST: Towards Dynamic Neural Scene Representations on Real-World Videos</a>
+- <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">🔥 DyST: Towards Dynamic Neural Scene Representations on Real-World Videos (ICLR 2024 **Spotlight, top 5%**)</a>
   - <a href="https://dyst-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2211.14306" target="_blank" rel="noopener noreferrer">🔥 RUST: Latent Neural Scene Representations from Unposed Imagery</a> (CVPR 2023 **Highlight, top 2.5%**)
@@ -11,7 +11,7 @@
 - <a href="https://arxiv.org/abs/2303.03378" target="_blank" rel="noopener noreferrer">PaLM-E: An Embodied Multimodal Language Model</a> (ICML 2023)
   - <a href="https://palm-e.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
-- <a href="https://arxiv.org/abs/2306.08068" target="_blank" rel="noopener noreferrer">DORSal: Diffusion for Object-centric Representations of Scenes et al.</a>
+- <a href="https://arxiv.org/abs/2306.08068" target="_blank" rel="noopener noreferrer">DORSal: Diffusion for Object-centric Representations of Scenes et al. (ICLR 2024)</a>
   - <a href="https://www.sjoerdvansteenkiste.com/dorsal/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2305.18890" target="_blank" rel="noopener noreferrer">Sensitivity of Slot-Based Object-Centric Models to their Number of Slots</a>
