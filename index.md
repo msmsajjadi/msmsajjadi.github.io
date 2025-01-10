@@ -2,10 +2,16 @@
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
-- <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">🔥 DyST: Towards Dynamic Neural Scene Representations on Real-World Videos</a> (ICLR 2024 **Spotlight, top 5%**)
+- 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
+
+- 🔥 <a href="https://arxiv.org/abs/2412.14294" target="_blank" rel="noopener noreferrer">TRecViT: A Recurrent Video Transformer </a>
+
+- 🔥 <a href="https://arxiv.org/abs/2411.05927" target="_blank" rel="noopener noreferrer">Moving Off-the-Grid: Scene-Grounded Video Representations</a> (NeurIPS 2024 **Spotlight, top 2%**)
+
+- 🔥 <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">DyST: Towards Dynamic Neural Scene Representations on Real-World Videos</a> (ICLR 2024 **Spotlight, top 5%**)
   - <a href="https://dyst-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
-- <a href="https://arxiv.org/abs/2211.14306" target="_blank" rel="noopener noreferrer">🔥 RUST: Latent Neural Scene Representations from Unposed Imagery</a> (CVPR 2023 **Highlight, top 2.5%**)
+- 🔥 <a href="https://arxiv.org/abs/2211.14306" target="_blank" rel="noopener noreferrer">RUST: Latent Neural Scene Representations from Unposed Imagery</a> (CVPR 2023 **Highlight, top 2.5%**)
   - <a href="https://rust-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2303.03378" target="_blank" rel="noopener noreferrer">PaLM-E: An Embodied Multimodal Language Model</a> (ICML 2023)
@@ -26,7 +32,7 @@
 - <a href="https://arxiv.org/abs/2206.06922v1" target="_blank" rel="noopener noreferrer">Object Scene Representation Transformer</a> (NeurIPS 2022)
   - <a href="https://osrt-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
-- <a href="https://arxiv.org/abs/2111.13152" target="_blank" rel="noopener noreferrer">🔥 Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations</a> (CVPR 2022)
+- 🔥 <a href="https://arxiv.org/abs/2111.13152" target="_blank" rel="noopener noreferrer">Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations</a> (CVPR 2022)
   - <a href="https://srt-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2112.00724" target="_blank" rel="noopener noreferrer">RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs</a> (CVPR 2022 **Oral**)
