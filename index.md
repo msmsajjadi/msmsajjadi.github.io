@@ -2,6 +2,12 @@
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
+- 🔥 From Image to Video: An Empirical Study of Diffusion Representations (coming soon)
+
+- 🔥 Direct Motion Models for Assessing Generated Videos (coming soon)
+
+- 🔥 TAPNext: End-to-End Tracking Any Point as Next Token Prediction (coming soon)
+
 - 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2412.14294" target="_blank" rel="noopener noreferrer">TRecViT: A Recurrent Video Transformer </a>
