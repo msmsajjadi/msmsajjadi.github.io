@@ -2,7 +2,7 @@
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
-- 🔥 From Image to Video: An Empirical Study of Diffusion Representations (coming soon)
+- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a>
 
 - 🔥 Direct Motion Models for Assessing Generated Videos (coming soon)
 
