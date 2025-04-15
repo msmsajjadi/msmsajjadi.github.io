@@ -6,7 +6,8 @@
 
 - 🔥 Direct Motion Models for Assessing Generated Videos (coming soon)
 
-- 🔥 TAPNext: End-to-End Tracking Any Point as Next Token Prediction (coming soon)
+- 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a>
+  - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
 
