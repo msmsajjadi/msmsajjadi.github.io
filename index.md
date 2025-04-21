@@ -6,7 +6,7 @@
 
 - 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a>
 
-- 🔥 Direct Motion Models for Assessing Generated Videos (coming soon)
+<!-- - 🔥 Direct Motion Models for Assessing Generated Videos (coming soon) -->
 
 - 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a>
   - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
