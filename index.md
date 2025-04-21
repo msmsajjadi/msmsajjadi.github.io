@@ -2,6 +2,8 @@
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
+- 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
+
 - 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a>
 
 - 🔥 Direct Motion Models for Assessing Generated Videos (coming soon)
@@ -9,19 +11,18 @@
 - 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a>
   - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
-- 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
-
 - 🔥 <a href="https://arxiv.org/abs/2412.14294" target="_blank" rel="noopener noreferrer">TRecViT: A Recurrent Video Transformer </a>
+  - <a href="https://github.com/google-deepmind/trecvit" target="_blank" rel="noopener noreferrer">Github</a>
 
-- 🔥 <a href="https://arxiv.org/abs/2411.05927" target="_blank" rel="noopener noreferrer">Moving Off-the-Grid: Scene-Grounded Video Representations</a> (NeurIPS 2024 **Spotlight, top 2%**)
+- <a href="https://arxiv.org/abs/2411.05927" target="_blank" rel="noopener noreferrer">Moving Off-the-Grid: Scene-Grounded Video Representations</a> (NeurIPS 2024 **Spotlight, top 2%**)
 
-- 🔥 <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">DyST: Towards Dynamic Neural Scene Representations on Real-World Videos</a> (ICLR 2024 **Spotlight, top 5%**)
+- <a href="https://arxiv.org/abs/2310.06020" target="_blank" rel="noopener noreferrer">DyST: Towards Dynamic Neural Scene Representations on Real-World Videos</a> (ICLR 2024 **Spotlight, top 5%**)
   - <a href="https://dyst-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2211.14306" target="_blank" rel="noopener noreferrer">RUST: Latent Neural Scene Representations from Unposed Imagery</a> (CVPR 2023 **Highlight, top 2.5%**)
   - <a href="https://rust-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
-- <a href="https://arxiv.org/abs/2303.03378" target="_blank" rel="noopener noreferrer">PaLM-E: An Embodied Multimodal Language Model</a> (ICML 2023)
+- 🔥 <a href="https://arxiv.org/abs/2303.03378" target="_blank" rel="noopener noreferrer">PaLM-E: An Embodied Multimodal Language Model</a> (ICML 2023)
   - <a href="https://palm-e.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2306.08068" target="_blank" rel="noopener noreferrer">DORSal: Diffusion for Object-centric Representations of Scenes et al.</a> (ICLR 2024)
@@ -56,7 +57,7 @@
 
 - <a href="https://arxiv.org/abs/1903.12436" target="_blank" rel="noopener noreferrer">From Variational to Deterministic Autoencoders</a> (ICLR 2020)
 
-- <a href="https://arxiv.org/abs/1806.00035" target="_blank" rel="noopener noreferrer">Assessing Generative Models via Precision and Recall</a> (NeurIPS 2018 & ICML 2018 workshop TADGM **Oral** & **Best Poster Award** at Bosch AI Con 2018)
+- 🔥 <a href="https://arxiv.org/abs/1806.00035" target="_blank" rel="noopener noreferrer">Assessing Generative Models via Precision and Recall</a> (NeurIPS 2018 & ICML 2018 workshop TADGM **Oral** & **Best Poster Award** at Bosch AI Con 2018)
   - <a href="https://github.com/msmsajjadi/precision-recall-distributions" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 - <a href="https://arxiv.org/abs/1807.07930" target="_blank" rel="noopener noreferrer">Photorealistic Video Super-Resolution with Enhanced Temporal Consistency</a> (ECCV 2018 workshop PIRM)
@@ -68,7 +69,7 @@
 - <a href="https://arxiv.org/abs/1801.04590" target="_blank" rel="noopener noreferrer">Frame-Recurrent Video Super-Resolution</a> (CVPR 2018)
   - <a href="https://github.com/msmsajjadi/frvsr" target="_blank" rel="noopener noreferrer">GitHub</a>
 
-- <a href="https://arxiv.org/abs/1612.07919" target="_blank" rel="noopener noreferrer">EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis</a> (ICCV 2017 **Oral, top 2%**)
+- 🔥 <a href="https://arxiv.org/abs/1612.07919" target="_blank" rel="noopener noreferrer">EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis</a> (ICCV 2017 **Oral, top 2%**)
   - <a href="https://webdav.tuebingen.mpg.de/pixel/enhancenet/" target="_blank" rel="noopener noreferrer">Project website</a>
   - <a href="https://github.com/msmsajjadi/EnhanceNet-Code" target="_blank" rel="noopener noreferrer">GitHub</a>
   - Our work has been covered in the press:
