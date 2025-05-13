@@ -6,7 +6,8 @@
 
 - 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a>
 
-<!-- - 🔥 Direct Motion Models for Assessing Generated Videos (coming soon) -->
+- 🔥 <a href="https://arxiv.org/abs/2505.00209" target="_blank" rel="noopener noreferrer">Direct Motion Models for Assessing Generated Videos</a> (ICML 2025)
+  - <a href="https://trajan-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a>
   - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
