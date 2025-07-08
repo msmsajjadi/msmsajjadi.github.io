@@ -4,16 +4,18 @@
 
 - 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
 
-- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a>
+- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025)
 
-- 🔥 <a href="https://arxiv.org/abs/2505.00209" target="_blank" rel="noopener noreferrer">Direct Motion Models for Assessing Generated Videos</a> (ICML 2025)
-  - <a href="https://trajan-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
+- 🔥 LayerLock: Non-collapsing Representation Learning with Progressive Freezing (ICCV 2025)
 
-- 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a>
+- 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a> (ICCV 2025)
   - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2412.14294" target="_blank" rel="noopener noreferrer">TRecViT: A Recurrent Video Transformer </a>
   - <a href="https://github.com/google-deepmind/trecvit" target="_blank" rel="noopener noreferrer">Github</a>
+
+- 🔥 <a href="https://arxiv.org/abs/2505.00209" target="_blank" rel="noopener noreferrer">Direct Motion Models for Assessing Generated Videos</a> (ICML 2025)
+  - <a href="https://trajan-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - <a href="https://arxiv.org/abs/2411.05927" target="_blank" rel="noopener noreferrer">Moving Off-the-Grid: Scene-Grounded Video Representations</a> (NeurIPS 2024 **Spotlight, top 2%**)
 
