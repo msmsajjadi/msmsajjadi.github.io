@@ -5,7 +5,7 @@
 - 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
   - <a href="https://github.com/google-deepmind/representations4d" target="_blank" rel="noopener noreferrer">Code & Models</a>
 
-- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025)
+- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025 Highlight)
 
 - 🔥 LayerLock: Non-collapsing Representation Learning with Progressive Freezing (ICCV 2025)
 
