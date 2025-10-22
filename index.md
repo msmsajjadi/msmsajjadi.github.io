@@ -6,15 +6,15 @@ I am a Tech Lead at [Google DeepMind](https://deepmind.google/), where my work f
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
-- 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
-  - <a href="https://github.com/google-deepmind/representations4d" target="_blank" rel="noopener noreferrer">Code & Models</a>
-
-- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025 Highlight)
+- 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025 **Highlight, top 2.3%**)
 
 - 🔥 <a href="https://arxiv.org/abs/2509.10156" target="_blank" rel="noopener noreferrer">LayerLock: Non-collapsing Representation Learning with Progressive Freezing</a> (ICCV 2025)
 
 - 🔥 <a href="https://arxiv.org/abs/2504.05579" target="_blank" rel="noopener noreferrer">TAPNext: End-to-End Tracking Any Point as Next Token Prediction</a> (ICCV 2025)
   - <a href="https://tap-next.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
+
+- 🔥 <a href="https://arxiv.org/abs/2412.15212" target="_blank" rel="noopener noreferrer">Scaling 4D Representations</a>
+  - <a href="https://github.com/google-deepmind/representations4d" target="_blank" rel="noopener noreferrer">Code & Models</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2412.14294" target="_blank" rel="noopener noreferrer">TRecViT: A Recurrent Video Transformer </a>
   - <a href="https://github.com/google-deepmind/trecvit" target="_blank" rel="noopener noreferrer">Github</a>
