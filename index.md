@@ -6,7 +6,7 @@ I am a Tech Lead at [Google DeepMind](https://deepmind.google/), where my work f
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
-- 🔥 <a href="https://d4rt-paper.github.io/" target="_blank" rel="noopener noreferrer">Efficiently Reconstructing Dynamic Scenes One 🎯 D4RT at a Time
+- 🔥 <a href="https://arxiv.org/abs/2512.08924" target="_blank" rel="noopener noreferrer">Efficiently Reconstructing Dynamic Scenes One 🎯 D4RT at a Time
   - <a href="https://d4rt-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
 
 - 🔥 <a href="https://arxiv.org/abs/2502.07001" target="_blank" rel="noopener noreferrer">From Image to Video: An Empirical Study of Diffusion Representations</a> (ICCV 2025 **Highlight, top 2.3%**)
