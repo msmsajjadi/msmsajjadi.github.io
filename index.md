@@ -6,6 +6,8 @@ Mehdi is a Research Scientist, Tech Lead & Manager at [Google DeepMind](https://
 
 ## Publications (<a href="https://scholar.google.com/citations?hl=de&user=rHF25YEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)
 
+- 🔥 <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" target="_blank" rel="noopener noreferrer">Gemini Robotics 2 brings whole body intelligence to robots</a>
+
 - 🔥 <a href="https://arxiv.org/abs/2512.08924" target="_blank" rel="noopener noreferrer">Efficiently Reconstructing Dynamic Scenes One 🎯 D4RT at a Time</a> (CVPR 2026 **Best Paper** 🏆)
   - <a href="https://d4rt-paper.github.io/" target="_blank" rel="noopener noreferrer">Project website</a>
   - <a href="https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/" target="_blank" rel="noopener noreferrer">Google DeepMind Blog</a>
